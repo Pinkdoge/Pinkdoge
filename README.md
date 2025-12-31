@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-A Student as well as a Deep-Thinker, who always be curious about everything.
-Now focus on learning, aiming to contributing for a better future:) 
-Or developing?It might be an accessible way lol.
-I'm a idealist as well.
+---
+A Student as well as a Deep-Thinker, who always be curious about everything.<br>
+Now focus on learning, aiming to contributing for a better future:) <br>
+Or developing?It might be an accessible way lol.<br>
+I'm a idealist as well.<br>
 
+---
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=42758990" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=42758990&image_size=auto&color_scheme=dark" width="771" height="auto">
