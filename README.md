@@ -1,5 +1,13 @@
 ### Hi there 👋
 
-[![Pinkdoge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinkdoge)](https://moeblue.top)
+A Student as well as a Deep-Thinker, who always be curious about everything.
+Now focus on learning, aiming to contributing for a better future:) 
+Or developing?It might be an accessible way lol.
+I'm a idealist as well.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkdoge&layout=compact)](https://github.com/Pinkdoge)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=42758990" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=42758990&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Pinkdoge" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=42758990&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
