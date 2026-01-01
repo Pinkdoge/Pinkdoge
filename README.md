@@ -4,7 +4,7 @@
 A Student as well as a Deep-Thinker, who always be curious about everything.<br>
 Now focus on learning, aiming to contributing for a better future:) <br>
 Or developing?It might be an accessible way lol.<br>
-I'm a idealist as well.<br>
+I'm an idealist as well.<br>
 
 ---
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=42758990" target="_blank" style="display: block" align="center">
