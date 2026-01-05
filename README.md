@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-A Student as well as a Deep-Thinker, who always is curious about everything.<br>
+A Student as well as a Deep-Thinker, who is always curious about everything.<br>
 Now focus on learning, aiming to contributing for a better future:) <br>
 Or developing?It might be an accessible way lol.<br>
 I'm an idealist as well.<br>
